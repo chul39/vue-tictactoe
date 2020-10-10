@@ -72,7 +72,7 @@ class Game{
 
         // If all the squares have been filled and there is no winner, the game is drawn
         if(this.moveCount == this.squares.length){
-            this.inProgres = false;
+            this.inProgress = false;
         }
 
     }
